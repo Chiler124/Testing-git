@@ -1,0 +1,5 @@
+# no .o and .a files
+*.[oa]
+
+# no files which end a ~
+*~
